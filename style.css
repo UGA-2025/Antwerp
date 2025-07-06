@@ -32,3 +32,39 @@ p {
   text-decoration: line-through;
 }
 
+#folio {
+    
+    color:blue;
+    
+    
+}
+
+
+h1 {
+    
+    text-align: center;
+}
+h2 {
+    
+    text-align: center;
+}
+h3 {
+    
+    text-align: center;
+    
+}
+
+#doyle {
+    
+    object-position: 40% 50%;
+    width: 40%;
+  height: 70%;
+    
+}
+
+.add[place="above"]{
+    
+vertical-align: super;
+color: red;
+    
+}

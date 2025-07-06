@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The adventure of the Norwood builder: a digital edition</title>
+            <author>Stefania Tesser</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName>University of Antwerp</orgName>
+               <placeName>Antwerp</placeName>
+            </publisher>
+
+
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               
+              
+               <note>
+               ID: 2892283 <lb/>
+
+               TITLE: The adventure of the Norwood builder<lb/>
+               AUTHOR: Arthur Conan Doyle <lb/>
+         
+                  COLLECTION: Henry W. and Albert A. Berg
+                  Collection of English and American Literature <lb/>
+                  LIBRARY: The New York Public Library. (1881
+                  - 1910) <lb/>
+                  TITLE PART: Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood
+                  builder<lb/>
+                  FORMAT: Holograph <lb/>
+                  SOURCE: Retrieved from
+                  https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5374" lry="7115" xml:id="facs_21">
+         <graphic url="0021_021_9r.jpeg" width="5374px" height="7115px"/>
+         <zone points="101,966 5203,966 5203,6749 101,6749" rendition="TextRegion"
+            xml:id="facs_21_tr_1">
+            <zone points="81,903 4055,903 4055,1285 81,1285" rendition="Line"
+               xml:id="facs_21_tr_1_tl_1"/>
+            <zone points="1053,1216 4650,1216 4650,1573 1053,1573" rendition="Line"
+               xml:id="facs_21_tr_1_tl_2"/>
+            <zone points="119,1517 4914,1517 4914,1880 119,1880" rendition="Line"
+               xml:id="facs_21_tr_1_tl_3"/>
+            <zone points="1423,1761 1955,1761 1955,1949 1423,1949" rendition="Line"
+               xml:id="facs_21_tr_1_tl_4"/>
+            <zone points="100,1824 4951,1824 4951,2156 100,2156" rendition="Line"
+               xml:id="facs_21_tr_1_tl_5"/>
+            <zone points="119,2150 5077,2150 5077,2488 119,2488" rendition="Line"
+               xml:id="facs_21_tr_1_tl_6"/>
+            <zone points="132,2400 4857,2400 4857,2814 132,2814" rendition="Line"
+               xml:id="facs_21_tr_1_tl_7"/>
+            <zone points="2143,2632 2814,2632 2814,2839 2143,2839" rendition="Line"
+               xml:id="facs_21_tr_1_tl_8"/>
+            <zone points="113,2726 5027,2726 5027,3071 113,3071" rendition="Line"
+               xml:id="facs_21_tr_1_tl_9"/>
+            <zone points="113,2990 4851,2990 4851,3378 113,3378" rendition="Line"
+               xml:id="facs_21_tr_1_tl_10"/>
+            <zone points="4312,3253 4976,3253 4976,3435 4312,3435" rendition="Line"
+               xml:id="facs_21_tr_1_tl_11"/>
+            <zone points="138,3259 4907,3259 4907,3654 138,3654" rendition="Line"
+               xml:id="facs_21_tr_1_tl_12"/>
+            <zone points="169,3541 4738,3541 4738,3986 169,3986" rendition="Line"
+               xml:id="facs_21_tr_1_tl_13"/>
+            <zone points="821,3836 1235,3836 1235,3999 821,3999" rendition="Line"
+               xml:id="facs_21_tr_1_tl_14"/>
+            <zone points="144,3898 5033,3898 5033,4287 144,4287" rendition="Line"
+               xml:id="facs_21_tr_1_tl_15"/>
+            <zone points="138,4199 5064,4199 5064,4607 138,4607" rendition="Line"
+               xml:id="facs_21_tr_1_tl_16"/>
+            <zone points="138,4444 4926,4444 4926,4864 138,4864" rendition="Line"
+               xml:id="facs_21_tr_1_tl_17"/>
+            <zone points="150,4776 5108,4776 5108,5215 150,5215" rendition="Line"
+               xml:id="facs_21_tr_1_tl_18"/>
+            <zone points="138,5070 5183,5070 5183,5446 138,5446" rendition="Line"
+               xml:id="facs_21_tr_1_tl_19"/>
+            <zone points="163,5359 4933,5359 4933,5779 163,5779" rendition="Line"
+               xml:id="facs_21_tr_1_tl_20"/>
+            <zone points="157,5685 4989,5685 4989,6073 157,6073" rendition="Line"
+               xml:id="facs_21_tr_1_tl_21"/>
+            <zone points="163,6011 4983,6011 4983,6362 163,6362" rendition="Line"
+               xml:id="facs_21_tr_1_tl_22"/>
+            <zone points="163,6261 3002,6261 3002,6775 163,6775" rendition="Line"
+               xml:id="facs_21_tr_1_tl_23"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
+            <ab facs="#facs_21_tr_1" type="6">
+               <l facs="#facs_21_tr_1_tl_1" n="N001">had quoted 9 read the following suggestive
+                  narrative.</l>
+               <l facs="#facs_21_tr_1_tl_2" n="N002">"Late last night or early this morning an
+                  incident</l>
+               <l facs="#facs_21_tr_1_tl_3" n="N003">occurred at Lower Norwood which points, it is
+                  feared, to a serious</l>
+               
+               <l facs="#facs_21_tr_1_tl_5" n="N005">crime.<rs type="person" key="Oldacre, Jonas">
+                     Mr Jonas <del><hi style="text-decoration: line-through;"
+                        >Cooper</hi></del></rs><add place="above"> Oldacre</add><hi style="text-decoration: line-through;"/> is a
+                  wellknown resident of that suburb</l>
+               <l facs="#facs_21_tr_1_tl_6" n="N006">where he has carried on his business as a
+                  builder for many years.</l>
+               <l facs="#facs_21_tr_1_tl_7" n="N007"><rs type="person" key="Oldacre, Jonas">Mr
+                     Oldacre</rs> is a <del><hi style="text-decoration: line-through;"
+                     >widower</hi></del>
+                  <add type="instant" place="above">bachelor</add>, fifty two years of age, and</l>
+               <l facs="#facs_21_tr_1_tl_8" n="N008">Sydenham</l>
+               <l facs="#facs_21_tr_1_tl_9" n="N009">lives in Deep Dene House at the <add
+                     place="above">Sydenham</add> end of the road of that name.</l>
+               <l facs="#facs_21_tr_1_tl_10" n="N010">He has had the reputation of being a man of
+                  eccentric habits.</l>
+    
+               <l facs="#facs_21_tr_1_tl_12" n="N012">secretive and retiring. For some years he has
+                  practically <hi style="text-decoration: line-through;"
+                     ></hi><del>retired</del><add place="above"> wittdrawn</add></l>
+               <l facs="#facs_21_tr_1_tl_13" n="N013">from <hi style="vertical-align: superscript;"
+                     >the</hi> business in which he is said to have amassed considerable</l>
+   
+               <l facs="#facs_21_tr_1_tl_15" n="N015">wealth. A <add place="above">small</add> timber yard still exists however at
+                  the back of the house</l>
+               <l facs="#facs_21_tr_1_tl_16" n="N016">and last night about twelve o'clock an alarm
+                  was given that one of</l>
+               <l facs="#facs_21_tr_1_tl_17" n="N017">the stacks <del> <hi
+                  style="text-decoration: line-through;">of bushes</hi></del> was on fire. The engines
+                  were soon upon the</l>
+               <l facs="#facs_21_tr_1_tl_18" n="N018">spot but the dry wood burned with great fury
+                  and it was impossible</l>
+               <l facs="#facs_21_tr_1_tl_19" n="N019">to arrest the conflagration until <del><hi
+                  style="text-decoration: line-through;">the stack</hi></del> <add place="above">it</add> had been entirely
+                  consumed,</l>
+               <l facs="#facs_21_tr_1_tl_20" n="N020">Up to this point the incident bore the
+                  appearance of an ordinary</l>
+               <l facs="#facs_21_tr_1_tl_21" n="N021">accident but fresh indications <del><hi
+                  style="text-decoration: line-through;">appear</hi></del> <add type="instant" place="inline"> seem </add>to point to serious</l>
+               <l facs="#facs_21_tr_1_tl_22" n="N022">crime. Surprise was expressed at the absence
+                  of the master of</l>
+               <l facs="#facs_21_tr_1_tl_23" n="N023">the establishment from the scene of the fire,
+                  and on inquiry</l>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
